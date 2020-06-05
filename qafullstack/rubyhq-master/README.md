@@ -1,1 +1,1 @@
-"# rubyhq" 
+Exercícios do curso QA Fullstack 
